@@ -1,0 +1,32 @@
+[1;32m
+Enjoy some statistic![0m
+Name: [1;34mgdfgdfg[0m
+Character: [1;34mNamby_Pamby[0m
+Defeated enemy's: 8
+Health :9
+PeaceAndQuiet: 1
+Antihistamine: 0
+[1;32m
+Enjoy some statistic![0m
+Name: [1;34mfgdfjhkljkhjkhj[0m
+Character: [1;34mNamby_Pamby[0m
+Defeated enemy's: 1
+Health :0
+PeaceAndQuiet: 0
+Antihistamine: 1
+[1;32m
+Enjoy some statistic![0m
+Name: [1;34meeee[0m
+Character: [1;34mGubbStrutt[0m
+Defeated enemy's: 7
+Health :10
+PeaceAndQuiet: 0
+Antihistamine: 0
+[1;32m
+Enjoy some statistic![0m
+Name: [1;34mwwww[0m
+Character: [1;34mThe_Love_Couple[0m
+Defeated enemy's: 6
+Health :9
+PeaceAndQuiet: 3
+Antihistamine: 0
