@@ -1,4 +1,4 @@
-# DG_Spel_Martina_Holmqvist
+# Dungeon Run
 My version of a Dungeon Run game.
 
 Act, calculate, and define logic that affects the game through interactivity.
